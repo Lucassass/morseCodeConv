@@ -1,0 +1,1 @@
+Small Python introduction asignment made in connection with a course (artificial intelligence) on 4 semester of software engineering at SDU 2021. The assignment was to make a small python program which could encode and decode morse code. 
